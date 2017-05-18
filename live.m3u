@@ -1,155 +1,333 @@
 #EXTM3U
-#EXTINF:-1,####(( English channels ))####
-#EXTINF:-1,UK:Sky Sports 1
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/11.ts
-#EXTINF:-1,UK:Sky Sports 2
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/10.ts
-#EXTINF:-1,UK:Sky Sports3
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/9.ts
-#EXTINF:-1,UK:Sky Sports 4
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/15.ts
-#EXTINF:-1,UK:Sky Sports 5
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/14.ts
-#EXTINF:-1,UK:Sky Sports F1
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/13.ts
-#EXTINF:-1,UK:Sky Sports News
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/12.ts
-#EXTINF:-1,UK:BT Sport1
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/37.ts
-#EXTINF:-1,UK:BT Sport2
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/36.ts
-#EXTINF:-1,UK:bt Europe
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/38.ts
-#EXTINF:-1,UK:Setanta
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/27.ts
-#EXTINF:-1,UK:sky News
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/7.ts
-#EXTINF:-1,UK:ESPN
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/35.ts
-#EXTINF:-1,UK:Racing UK
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/30.ts
-#EXTINF:-1,UK:At The Races
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/41.ts
-#EXTINF:-1,UK:BBC One Londen
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/40.ts
-#EXTINF:-1,UK:BBC Two londen
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/39.ts
-#EXTINF:-1,UK:ITV1
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/34.ts
-#EXTINF:-1,UK:ITV2
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/33.ts
-#EXTINF:-1,UK:ITV3
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/32.ts
-#EXTINF:-1,UK:ITV4
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/31.ts
-#EXTINF:-1,UK: Channel 5
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/114.ts
-#EXTINF:-1,UK: Channel 4
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/115.ts
-#EXTINF:-1,UK: GOOD-FOOD
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/413.ts
-#EXTINF:-1,E! Entertainment
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/2.ts
-#EXTINF:-1,UK:RTE1
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/29.ts
-#EXTINF:-1,UK:RTE2
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/28.ts
-#EXTINF:-1,UK:TV3
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/5.ts
-#EXTINF:-1,UK:TG4
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/6.ts
-#EXTINF:-1,UK:5USA
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/42.ts
-#EXTINF:-1,UK:5STAR
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/43.ts
-#EXTINF:-1,UK:SKY Thriller
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/8.ts
-#EXTINF:-1,UK:SKY Select
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/16.ts
-#EXTINF:-1,UK:SKY Scifi
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/17.ts
-#EXTINF:-1,UK:SKY Premierplus
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/18.ts
-#EXTINF:-1,UK:SKY Moviespremier
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/19.ts
-#EXTINF:-1,UK:SKY Modern
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/20.ts
-#EXTINF:-1,UK:SKY Family
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/21.ts
-#EXTINF:-1,UK:SKY Drama
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/22.ts
-#EXTINF:-1,UK:SKY Disney
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/23.ts
-#EXTINF:-1,UK:SKY Comedy
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/24.ts
-#EXTINF:-1,UK:SKY Christmas
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/25.ts
-#EXTINF:-1,UK:SKY Action
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/26.ts
-#EXTINF:-1,UK: MOVIES CRIME & THRILLER HD
-http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/414.ts
-#EXTINF:0,USA:Tlc
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/547.ts
-#EXTINF:0,USA:SYFY
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/548.ts
-#EXTINF:0,USA:PBS
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/549.ts
-#EXTINF:0,USA:NICKELODEON
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/550.ts
-#EXTINF:0,USA:Nbcsn
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/540.ts
-#EXTINF:0,USA:NBC
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/551.ts
-#EXTINF:0,USA:NAT GEO
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/552.ts
-#EXTINF:0,USA:my9
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/541.ts
-#EXTINF:0,USA:LIFE TIME
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/553.ts
-#EXTINF:0,USA:HISTORY
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/554.ts
-#EXTINF:0,USA:FX
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/555.ts
-#EXTINF:0,USA:Freeform
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/542.ts
-#EXTINF:0,USA:FOX NEWS
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/556.ts
-#EXTINF:0,USA:Fox 43
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/557.ts
-#EXTINF:0,USA:ESPN
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/558.ts
-#EXTINF:0,USA:DISCOVERY
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/559.ts
-#EXTINF:0,USA:CW
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/560.ts
-#EXTINF:0,USA:COMEDY
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/561.ts
-#EXTINF:0,USA:CNBC
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/562.ts
-#EXTINF:0,USA:CBS
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/563.ts
-#EXTINF:0,USA:BRAVO
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/564.ts
-#EXTINF:0,USA:Animal
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/565.ts
-#EXTINF:0,USA:AMC
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/566.ts
-#EXTINF:0,USA:A&E
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/567.ts
-#EXTINF:0,USA: USA TV
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/568.ts
-#EXTINF:0,USA: Universal hd
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/546.ts
-#EXTINF:0,USA: Msnbc
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/543.ts
-#EXTINF:0,USA: Espn2
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/569.ts
-#EXTINF:0,USA: BBC AMERICA
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/544.ts
-#EXTINF:0,USA: Abc
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/545.ts
-#EXTINF:0,WWE NETWORK HD USA
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/3.ts
-#EXTINF:0,WAPA 2 HD
-http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/4.ts
-
+<item> 
+          <title>UK:Sky Sports 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:Sky Sports 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 2</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:Sky Sports3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports3</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:Sky Sports 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 4</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:Sky Sports 5</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports 5</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:Sky Sports F1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports F1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:Sky Sports News</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky Sports News</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK:BT Sport1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT Sport1</link> 
+      </item> 
+        <item> 
+          <title>UK:BT Sport2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT Sport2</link> 
+      </item> 
+        <item> 
+          <title>UK:bt Europe</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:bt Europe</link> 
+      </item> 
+        <item> 
+          <title>UK:Setanta</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Setanta</link> 
+      </item> 
+        <item> 
+          <title>UK:sky News</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:sky News</link> 
+      </item> 
+        <item> 
+          <title>UK:ESPN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ESPN</link> 
+      </item> 
+        <item> 
+          <title>UK:Racing UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Racing UK</link> 
+      </item> 
+        <item> 
+          <title>UK:At The Races</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:At The Races</link> 
+      </item> 
+        <item> 
+          <title>UK:BBC One Londen</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC One Londen</link> 
+      </item> 
+        <item> 
+          <title>UK:BBC Two londen</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC Two londen</link> 
+      </item> 
+        <item> 
+          <title>UK:ITV1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV1</link> 
+      </item> 
+        <item> 
+          <title>UK:ITV2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV2</link> 
+      </item> 
+        <item> 
+          <title>UK:ITV3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV3</link> 
+      </item> 
+        <item> 
+          <title>UK:ITV4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV4</link> 
+      </item> 
+        <item> 
+          <title>UK: Channel 5</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5</link> 
+      </item> 
+        <item> 
+          <title>UK: Channel 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4</link> 
+      </item> 
+        <item> 
+          <title>UK: GOOD-FOOD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/413.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOOD-FOOD</link> 
+      </item> 
+        <item> 
+          <title>E! Entertainment</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! Entertainment</link> 
+      </item> 
+        <item> 
+          <title>UK:RTE1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:RTE1</link> 
+      </item> 
+        <item> 
+          <title>UK:RTE2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:RTE2</link> 
+      </item> 
+        <item> 
+          <title>UK:TV3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TV3</link> 
+      </item> 
+        <item> 
+          <title>UK:TG4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TG4</link> 
+      </item> 
+        <item> 
+          <title>UK:5USA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:5USA</link> 
+      </item> 
+        <item> 
+          <title>UK:5STAR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:5STAR</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Thriller</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Thriller</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Select</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Select</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Scifi</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Scifi</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Premierplus</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Premierplus</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Moviespremier</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Moviespremier</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Modern</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Modern</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Family</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Family</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Drama</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Drama</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Disney</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Disney</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Comedy</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Comedy</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Christmas</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Christmas</link> 
+      </item> 
+        <item> 
+          <title>UK:SKY Action</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY Action</link> 
+      </item> 
+        <item> 
+          <title>UK: MOVIES CRIME &amp; THRILLER HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/414.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES CRIME &amp; THRILLER HD</link> 
+      </item> 
+        <item> 
+          <title>USA:Tlc</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Tlc</link> 
+      </item> 
+        <item> 
+          <title>USA:SYFY</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:SYFY</link> 
+      </item> 
+        <item> 
+          <title>USA:PBS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:PBS</link> 
+      </item> 
+        <item> 
+          <title>USA:NICKELODEON</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NICKELODEON</link> 
+      </item> 
+        <item> 
+          <title>USA:Nbcsn</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Nbcsn</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC</link> 
+      </item> 
+        <item> 
+          <title>USA:NAT GEO</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NAT GEO</link> 
+      </item> 
+        <item> 
+          <title>USA:my9</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:my9</link> 
+      </item> 
+        <item> 
+          <title>USA:LIFE TIME</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:LIFE TIME</link> 
+      </item> 
+        <item> 
+          <title>USA:HISTORY</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:HISTORY</link> 
+      </item> 
+        <item> 
+          <title>USA:FX</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:FX</link> 
+      </item> 
+        <item> 
+          <title>USA:Freeform</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Freeform</link> 
+      </item> 
+        <item> 
+          <title>USA:FOX NEWS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:FOX NEWS</link> 
+      </item> 
+        <item> 
+          <title>USA:Fox 43</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Fox 43</link> 
+      </item> 
+        <item> 
+          <title>USA:ESPN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:ESPN</link> 
+      </item> 
+        <item> 
+          <title>USA:DISCOVERY</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:DISCOVERY</link> 
+      </item> 
+        <item> 
+          <title>USA:CW</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CW</link> 
+      </item> 
+        <item> 
+          <title>USA:COMEDY</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:COMEDY</link> 
+      </item> 
+        <item> 
+          <title>USA:CNBC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CNBC</link> 
+      </item> 
+        <item> 
+          <title>USA:CBS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CBS</link> 
+      </item> 
+        <item> 
+          <title>USA:BRAVO</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:BRAVO</link> 
+      </item> 
+        <item> 
+          <title>USA:Animal</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Animal</link> 
+      </item> 
+        <item> 
+          <title>USA:AMC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:AMC</link> 
+      </item> 
+        <item> 
+          <title>USA:A&amp;E</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:A&amp;E</link> 
+      </item> 
+        <item> 
+          <title>USA: USA TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: USA TV</link> 
+      </item> 
+        <item> 
+          <title>USA: Universal hd</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Universal hd</link> 
+      </item> 
+        <item> 
+          <title>USA: Msnbc</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Msnbc</link> 
+      </item> 
+        <item> 
+          <title>USA: Espn2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Espn2</link> 
+      </item> 
+        <item> 
+          <title>USA: BBC AMERICA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: BBC AMERICA</link> 
+      </item> 
+        <item> 
+          <title>USA: Abc</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Abc</link> 
+      </item> 
+        <item> 
+          <title>WWE NETWORK HD USA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE NETWORK HD USA</link> 
+      </item> 
+        <item> 
+          <title>WAPA 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=WAPA 2 HD</link> 
+      </item> 
