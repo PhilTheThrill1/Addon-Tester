@@ -1,13 +1,259 @@
 #EXTM3U
-#EXTINF:-1,||UK||SKY.SPORT1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/100.ts
-#EXTINF:-1,||UK||SKY.SPORT2
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/99.ts
-#EXTINF:-1,||UK||SKY.SPORT3
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/98.ts
-#EXTINF:-1,||UK||SKY.SPORT4
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/97.ts
-#EXTINF:-1,||UK||SKY.SPORT5
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/96.ts
-#EXTINF:-1,||UK||SKY.SPORT.NEWS.HD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/31.ts
+#EXTINF:-1,UK TG4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5117.ts
+#EXTINF:-1,UK SyFy UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5118.ts
+#EXTINF:-1,UK Sky Sports F1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5119.ts
+#EXTINF:-1,UK Sky Sports F1 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5120.ts
+#EXTINF:-1,UK Sky Sports 5 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5121.ts
+#EXTINF:-1,UK Sky Sports 5 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5122.ts
+#EXTINF:-1,UK Sky Sports 4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5123.ts
+#EXTINF:-1,UK Sky Sports 4 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5124.ts
+#EXTINF:-1,UK Sky Sports 3 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5125.ts
+#EXTINF:-1,UK Sky Sports 3 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5126.ts
+#EXTINF:-1,UK Sky Sports 2 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5127.ts
+#EXTINF:-1,UK Sky Sports 2 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5128.ts
+#EXTINF:-1,UK Sky Sports 1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5129.ts
+#EXTINF:-1,UK Sky Sports 1 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5130.ts
+#EXTINF:-1,UK Sky News UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5131.ts
+#EXTINF:-1,UK Sky Movies Showcase UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5132.ts
+#EXTINF:-1,UK Sky Movies Sci-Fi & Horror HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5133.ts
+#EXTINF:-1,UK Sky Movies Premiere HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5134.ts
+#EXTINF:-1,UK Sky Movies Greats HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5135.ts
+#EXTINF:-1,UK Sky Movies Family HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5136.ts
+#EXTINF:-1,UK Sky Movies Drama & Romance HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5137.ts
+#EXTINF:-1,UK Sky Movies Disney UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5138.ts
+#EXTINF:-1,UK Sky Movies Crime & Thriller UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5139.ts
+#EXTINF:-1,UK Sky Movies Comedy HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5140.ts
+#EXTINF:-1,UK Sky Movies Action & Adventure UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5141.ts
+#EXTINF:-1,UK Sky Movies Action & Adventure HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5142.ts
+#EXTINF:-1,UK Sky Living UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5143.ts
+#EXTINF:-1,UK Sky Arts 1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5144.ts
+#EXTINF:-1,UK Setanta Sports UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5145.ts
+#EXTINF:-1,UK RTE Two HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5146.ts
+#EXTINF:-1,UK Really UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5147.ts
+#EXTINF:-1,UK Quest UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5148.ts
+#EXTINF:-1,UK Premier Sports UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5149.ts
+#EXTINF:-1,UK Pick UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5150.ts
+#EXTINF:-1,UK Nick Jr. UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5151.ts
+#EXTINF:-1,UK National Geographic Channel UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5152.ts
+#EXTINF:-1,UK Nat Geo Wild UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5153.ts
+#EXTINF:-1,UK MUTV UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5154.ts
+#EXTINF:-1,UK MTV Music UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5155.ts
+#EXTINF:-1,UK Movies4Men UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5156.ts
+#EXTINF:-1,UK Mototrs TV UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5157.ts
+#EXTINF:-1,UK More4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5158.ts
+#EXTINF:-1,UK Liverpool TV UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5159.ts
+#EXTINF:-1,UK ITV Encore UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5160.ts
+#EXTINF:-1,UK ITV BE UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5161.ts
+#EXTINF:-1,UK ITV 4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5162.ts
+#EXTINF:-1,UK ITV 3 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5163.ts
+#EXTINF:-1,UK ITV 2 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5164.ts
+#EXTINF:-1,UK ITV 1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5165.ts
+#EXTINF:-1,UK Horror Channel UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5166.ts
+#EXTINF:-1,UK History UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5167.ts
+#EXTINF:-1,UK Good Food UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5168.ts
+#EXTINF:-1,UK Gold UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5169.ts
+#EXTINF:-1,UK FOX UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5170.ts
+#EXTINF:-1,UK Food Network UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5171.ts
+#EXTINF:-1,UK FLAVA UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5172.ts
+#EXTINF:-1,UK Film4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5173.ts
+#EXTINF:-1,UK Eurosport 2 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5174.ts
+#EXTINF:-1,UK Eurosport 1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5175.ts
+#EXTINF:-1,UK Eurosport 1 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5176.ts
+#EXTINF:-1,UK ETV1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5177.ts
+#EXTINF:-1,UK E4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5178.ts
+#EXTINF:-1,UK Drama UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5179.ts
+#EXTINF:-1,UK DMAX UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5180.ts
+#EXTINF:-1,UK Disney XD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5181.ts
+#EXTINF:-1,UK Disney Junior UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5182.ts
+#EXTINF:-1,UK Disney Channel UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5183.ts
+#EXTINF:-1,UK Discovery World UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5184.ts
+#EXTINF:-1,UK Discovery Turbo UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5185.ts
+#EXTINF:-1,UK Discovery Science UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5186.ts
+#EXTINF:-1,UK Discovery Science HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5187.ts
+#EXTINF:-1,UK Discovery Investigation UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5188.ts
+#EXTINF:-1,UK Discovery History UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5189.ts
+#EXTINF:-1,UK Discovery Channel UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5190.ts
+#EXTINF:-1,UK Dave UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5191.ts
+#EXTINF:-1,UK Comedy Central UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5192.ts
+#EXTINF:-1,UK Colors UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5193.ts
+#EXTINF:-1,UK CNN UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5194.ts
+#EXTINF:-1,UK CITV UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5195.ts
+#EXTINF:-1,UK Channel 5 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5196.ts
+#EXTINF:-1,UK Channel 4 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5197.ts
+#EXTINF:-1,UK CBS Reality UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5198.ts
+#EXTINF:-1,UK CBS Drama UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5199.ts
+#EXTINF:-1,UK CBS Action UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5200.ts
+#EXTINF:-1,UK Cartoon Network UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5201.ts
+#EXTINF:-1,UK BT Sport EXTRA UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5202.ts
+#EXTINF:-1,UK BT Sport EUROPE HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5203.ts
+#EXTINF:-1,UK BT Sport 2 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5204.ts
+#EXTINF:-1,UK BT Sport 2 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5205.ts
+#EXTINF:-1,UK BT Sport 1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5206.ts
+#EXTINF:-1,UK BT Sport 1 HD UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5207.ts
+#EXTINF:-1,UK BOX Nation UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5208.ts
+#EXTINF:-1,UK Boomerang UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5209.ts
+#EXTINF:-1,UK Bloomberg UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5210.ts
+#EXTINF:-1,UK BBC Two UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5211.ts
+#EXTINF:-1,UK BBC RB1 UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5212.ts
+#EXTINF:-1,UK BBC One West UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5213.ts
+#EXTINF:-1,UK BBC One UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5214.ts
+#EXTINF:-1,UK BBC One East UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5215.ts
+#EXTINF:-1,UK BBC News UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5216.ts
+#EXTINF:-1,UK BBC Four UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5217.ts
+#EXTINF:-1,UK Animal Planet UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5218.ts
+#EXTINF:-1,UK 5 USA UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5219.ts
+#EXTINF:-1,UK 5 Star UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5220.ts
+#EXTINF:-1,UK 4Seven UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5221.ts
+#EXTINF:-1,UK 3E UK
+http://cp.dmbshare.net:8000/live/aaron/aaron/5222.ts
+#EXTINF:-1,UK_VIASAT_EXPLORE
+http://becha-tv.ddns.net:8000/live/test_site/test_site/538.ts
+#EXTINF:-1,UK_SKY_SPORTS_F1
+http://becha-tv.ddns.net:8000/live/test_site/test_site/525.ts
+#EXTINF:-1,UK_SKY_SPORTS_5_HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/530.ts
+#EXTINF:-1,UK_SKY_SPORTS_4_HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/529.ts
+#EXTINF:-1,UK_Sky_Sports_4
+http://becha-tv.ddns.net:8000/live/test_site/test_site/534.ts
+#EXTINF:-1,UK_SKY_SPORTS_3_HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/528.ts
+#EXTINF:-1,UK_Sky_Sports_3
+http://becha-tv.ddns.net:8000/live/test_site/test_site/533.ts
+#EXTINF:-1,UK_SKY_SPORTS_2_HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/527.ts
+#EXTINF:-1,UK_SKY_SPORTS_2
+http://becha-tv.ddns.net:8000/live/test_site/test_site/532.ts
+#EXTINF:-1,UK_SKY_SPORTS_1_HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/526.ts
+#EXTINF:-1,UK_SKY_SPORTS_1
+http://becha-tv.ddns.net:8000/live/test_site/test_site/531.ts
+#EXTINF:-1,UK_NACIONAL_GEO_WILD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/540.ts
+#EXTINF:-1,UK_ID_XTRA
+http://becha-tv.ddns.net:8000/live/test_site/test_site/539.ts
+#EXTINF:-1,UK_HISTORY_CHANNEL
+http://becha-tv.ddns.net:8000/live/test_site/test_site/537.ts
+#EXTINF:-1,UK_Disney_Junior_ 1
+http://becha-tv.ddns.net:8000/live/test_site/test_site/521.ts
+#EXTINF:-1,UK_Disney_Jr
+http://becha-tv.ddns.net:8000/live/test_site/test_site/523.ts
+#EXTINF:-1,UK_DISCOVERY_SCIENCE
+http://becha-tv.ddns.net:8000/live/test_site/test_site/542.ts
+#EXTINF:-1,UK_DISCOVERY_HISTORY
+http://becha-tv.ddns.net:8000/live/test_site/test_site/543.ts
+#EXTINF:-1,UK_DISCOVERY_CHANNEL
+http://becha-tv.ddns.net:8000/live/test_site/test_site/535.ts
+#EXTINF:-1,UK_DISCOVERY
+http://becha-tv.ddns.net:8000/live/test_site/test_site/541.ts
+#EXTINF:-1,UK_CARTOON_NETWORK
+http://becha-tv.ddns.net:8000/live/test_site/test_site/524.ts
+#EXTINF:-1,UK_BOOMERANG
+http://becha-tv.ddns.net:8000/live/test_site/test_site/522.ts
+#EXTINF:-1,UK_ANIMAL_PLANET
+http://becha-tv.ddns.net:8000/live/test_site/test_site/536.ts
