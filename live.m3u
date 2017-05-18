@@ -1,3 +1,71 @@
 #EXTM3U
-#EXTINF:-1,UK:Sky_Movies_Thriller
-http://aliptv.info:16000/live/Mode053/aGOjAyrC44/709.ts
+#EXTINF:-1,[UK] Box Nation
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5835.ts
+#EXTINF:-1,[UK] British Eurosport
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5828.ts
+#EXTINF:-1,[UK] British Eurosport 2
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5829.ts
+#EXTINF:-1,[UK] eir Sports 1
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5830.ts
+#EXTINF:-1,[UK] eir Sports 2
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5831.ts
+#EXTINF:-1,[UK] MUTV
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5837.ts
+#EXTINF:-1,[UK] MUTV HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5978.ts
+#EXTINF:-1,[UK] Sky Sport News HQ
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5821.ts
+#EXTINF:-1,[UK] SKY SPORTS 1 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5968.ts
+#EXTINF:-1,[UK] SKY SPORTS 2 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5969.ts
+#EXTINF:-1,[UK] SKY SPORTS 3 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5970.ts
+#EXTINF:-1,[UK] SKY SPORTS 4 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5971.ts
+#EXTINF:-1,[UK] SKY SPORTS 5 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5972.ts
+#EXTINF:-1,[UK] SKY SPORTS F1 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5973.ts
+#EXTINF:-1,[UK] PREMIER SPORTS HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6006.ts
+#EXTINF:-1,[UK] Setanta/Premier Sports HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5974.ts
+#EXTINF:-1,[UK] Sky Sports Box Office PPV
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5822.ts
+#EXTINF:-1,[UK] Sky Sports Mix
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5820.ts
+#EXTINF:-1,[UK] BT Sport 1
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5823.ts
+#EXTINF:-1,[UK] BT Sport 2
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5824.ts
+#EXTINF:-1,[UK] BT Sport 3 (Ex Europe)
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5825.ts
+#EXTINF:-1,[UK] BT Sport ESPN
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5826.ts
+#EXTINF:-1,[UK] BT SPORTS 1 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5975.ts
+#EXTINF:-1,[UK] BT SPORTS 2 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5976.ts
+#EXTINF:-1,[UK] BT SPORTS 3 HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5977.ts
+#EXTINF:-1,[UK] BT Sports ESPN HD
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6005.ts
+#EXTINF:-1,[UK] BT Sports Extra 1
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5827.ts
+#EXTINF:-1,[UK] BT Sports Extra 2
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6009.ts
+#EXTINF:-1,[UK] BT Sports Extra 3
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6010.ts
+#EXTINF:-1,[UK] BT Sports Extra 4
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6011.ts
+#EXTINF:-1,[UK] BT Sports Extra 5
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6012.ts
+#EXTINF:-1,[UK] Sportsnet 360 (EPL 3PM)
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6004.ts
+#EXTINF:-1,[UK] Sportsnet One (EPL 3PM)
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6003.ts
+#EXTINF:-1,[UK] Sportsnet Ontario (EPL 3PM)
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6002.ts
+#EXTINF:-1,[UK] Sportsnet World (EPL 3PM)
+http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6001.ts
