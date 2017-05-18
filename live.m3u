@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1,(TR) Nilsat Sinema 5 HD  IPTVultra.com [854x480]
-http://51.255.95.9:8080/live/koray/koray123/367.ts
-#EXTINF:-1, SKY Sport 2  IPTVultra.com [854x480]
-http://149.202.93.187:8000/live/9bgX2KC58a/h2CyrTbHLD/38.ts
+#EXTINF:-1,UK:Sky Sports 2
+http://easyiptv.dyndns.biz:8000/live/atlanta/atlanta/10.ts
