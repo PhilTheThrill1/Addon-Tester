@@ -1,19 +1,123 @@
 #EXTM3U
 #EXTINF:-1,***** Phils UK Sports *****
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1028.ts
-#EXTINF:-1,UK | SkySport1 UK
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1093.ts
-#EXTINF:-1,UK | SkySport2 UK
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1092.ts
-#EXTINF:-1,UK | SkySport3 UK
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1091.ts
-#EXTINF:-1,UK | SkySport4  UK
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1090.ts
-#EXTINF:-1,UK | SkySport5 UK
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1089.ts
-#EXTINF:-1,UK | SkysportF1
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1088.ts
-#EXTINF:-1,UK | BTSport1
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1079.ts
-#EXTINF:-1,UK | BTSport2
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1078.ts
+#EXTINF:-1,▬ United Kingdom [UK] ▬
+#EXTINF:-1,ASTRO SuperSport 1 UK
+http://clientportal.link:8080/live/downtown/downtown/8010.ts
+#EXTINF:-1,ASTRO SuperSport 2 UK
+http://clientportal.link:8080/live/downtown/downtown/8011.ts
+#EXTINF:-1,ASTRO SuperSport 3 UK
+http://clientportal.link:8080/live/downtown/downtown/8012.ts
+#EXTINF:-1,ASTRO SuperSport 4 UK
+http://clientportal.link:8080/live/downtown/downtown/8013.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:8080/live/downtown/downtown/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:8080/live/downtown/downtown/1991.ts
+#EXTINF:-1,BT Sport 1 UK
+http://clientportal.link:8080/live/downtown/downtown/3586.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:8080/live/downtown/downtown/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:8080/live/downtown/downtown/1992.ts
+#EXTINF:-1,BT Sport 2 UK
+http://clientportal.link:8080/live/downtown/downtown/3588.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:8080/live/downtown/downtown/14659.ts
+#EXTINF:-1,BT Sports 3 HD
+http://clientportal.link:8080/live/downtown/downtown/14903.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:8080/live/downtown/downtown/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:8080/live/downtown/downtown/2673.ts
+#EXTINF:-1,BT Sport EXTRA UK
+http://clientportal.link:8080/live/downtown/downtown/2682.ts
+#EXTINF:-1,BT Sport Espn HD UK
+http://clientportal.link:8080/live/downtown/downtown/1980.ts
+#EXTINF:-1,BT Sport Extra 1  UK
+http://clientportal.link:8080/live/downtown/downtown/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:8080/live/downtown/downtown/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:8080/live/downtown/downtown/14808.ts
+#EXTINF:-1,BT Sport Extra 4 UK
+http://clientportal.link:8080/live/downtown/downtown/14807.ts
+#EXTINF:-1,BT Sport Extra 6 UK
+http://clientportal.link:8080/live/downtown/downtown/14806.ts
+#EXTINF:-1,BT Sport Mosaic 2 UK
+http://clientportal.link:8080/live/downtown/downtown/14805.ts
+#EXTINF:-1,BT Sport Mosaic UK
+http://clientportal.link:8080/live/downtown/downtown/14777.ts
+#EXTINF:-1,SKY SPORTS 1 HD 1080P UK
+http://clientportal.link:8080/live/downtown/downtown/14651.ts
+#EXTINF:-1,SKY SPORTS 2 HD 1080P UK
+http://clientportal.link:8080/live/downtown/downtown/14652.ts
+#EXTINF:-1,SKY SPORTS 3 HD 1080P UK
+http://clientportal.link:8080/live/downtown/downtown/14653.ts
+#EXTINF:-1,SKY SPORTS 4 HD 1080P UK
+http://clientportal.link:8080/live/downtown/downtown/14654.ts
+#EXTINF:-1,SKY SPORTS 5 HD 1080P UK
+http://clientportal.link:8080/live/downtown/downtown/14655.ts
+#EXTINF:-1,SKY SPORTS F1 HD 1080P UK
+http://clientportal.link:8080/live/downtown/downtown/14656.ts
+#EXTINF:-1,Sky Sports 1 (a) UK
+http://clientportal.link:8080/live/downtown/downtown/14753.ts
+#EXTINF:-1,Sky Sports 1 (b) UK
+http://clientportal.link:8080/live/downtown/downtown/14752.ts
+#EXTINF:-1,Sky Sports 1 (c) UK
+http://clientportal.link:8080/live/downtown/downtown/14751.ts
+#EXTINF:-1,Sky Sports 1 HD UK
+http://clientportal.link:8080/live/downtown/downtown/5600.ts
+#EXTINF:-1,Sky Sports 1 UK
+http://clientportal.link:8080/live/downtown/downtown/3593.ts
+#EXTINF:-1,Sky Sports 2 (a) UK
+http://clientportal.link:8080/live/downtown/downtown/14750.ts
+#EXTINF:-1,Sky Sports 2 (b) UK
+http://clientportal.link:8080/live/downtown/downtown/14749.ts
+#EXTINF:-1,Sky Sports 2 (c) UK
+http://clientportal.link:8080/live/downtown/downtown/14748.ts
+#EXTINF:-1,Sky Sports 2 HD UK
+http://clientportal.link:8080/live/downtown/downtown/5601.ts
+#EXTINF:-1,Sky Sports 2 UK
+http://clientportal.link:8080/live/downtown/downtown/3595.ts
+#EXTINF:-1,Sky Sports 3 (a) UK
+http://clientportal.link:8080/live/downtown/downtown/14747.ts
+#EXTINF:-1,Sky Sports 3 (b) UK
+http://clientportal.link:8080/live/downtown/downtown/14746.ts
+#EXTINF:-1,Sky Sports 3 (c) UK
+http://clientportal.link:8080/live/downtown/downtown/14745.ts
+#EXTINF:-1,Sky Sports 3 HD UK
+http://clientportal.link:8080/live/downtown/downtown/3598.ts
+#EXTINF:-1,Sky Sports 3 UK
+http://clientportal.link:8080/live/downtown/downtown/3597.ts
+#EXTINF:-1,Sky Sports 4 (a) UK
+http://clientportal.link:8080/live/downtown/downtown/14744.ts
+#EXTINF:-1,Sky Sports 4 (b) UK
+http://clientportal.link:8080/live/downtown/downtown/14743.ts
+#EXTINF:-1,Sky Sports 4 HD UK
+http://clientportal.link:8080/live/downtown/downtown/3600.ts
+#EXTINF:-1,Sky Sports 4 UK
+http://clientportal.link:8080/live/downtown/downtown/3599.ts
+#EXTINF:-1,Sky Sports 5 (a) UK
+http://clientportal.link:8080/live/downtown/downtown/14742.ts
+#EXTINF:-1,Sky Sports 5 (b) UK
+http://clientportal.link:8080/live/downtown/downtown/14741.ts
+#EXTINF:-1,Sky Sports 5 (c) UK
+http://clientportal.link:8080/live/downtown/downtown/14740.ts
+#EXTINF:-1,Sky Sports 5 HD UK
+http://clientportal.link:8080/live/downtown/downtown/4458.ts
+#EXTINF:-1,Sky Sports 5 UK
+http://clientportal.link:8080/live/downtown/downtown/3601.ts
+#EXTINF:-1,Sky Sports Box Office  UK
+http://clientportal.link:8080/live/downtown/downtown/14756.ts
+#EXTINF:-1,Sky Sports F1 (a) UK
+http://clientportal.link:8080/live/downtown/downtown/14739.ts
+#EXTINF:-1,Sky Sports F1 HD UK
+http://clientportal.link:8080/live/downtown/downtown/3603.ts
+#EXTINF:-1,Sky Sports F1 UK
+http://clientportal.link:8080/live/downtown/downtown/3602.ts
+#EXTINF:-1,Sky Sports Mix HD UK
+http://clientportal.link:8080/live/downtown/downtown/14902.ts
+#EXTINF:-1,Sky Sports Mix UK
+http://clientportal.link:8080/live/downtown/downtown/14926.ts
+#EXTINF:-1,Sky Sports News HD UK
+http://clientportal.link:8080/live/downtown/downtown/1954.ts
