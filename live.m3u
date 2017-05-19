@@ -1,27 +1,26 @@
 #EXTM3U
-#EXTINF:-1,***** Phils UK Sports *****
+#EXTINF:0,#EXTINF:-1,***** Phils UK Sports *****
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/824.m3u8
-#EXTINF:-1,GB: Sky Sports News HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/97.ts
-#EXTINF:-1,GB: Sky Sport F1 HD
+#EXTINF:0,#EXTINF:-1,GB: Sky Sports News HD
+http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/97.m3u8
+#EXTINF:0,#EXTINF:-1,GB: Sky Sport F1 HD
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/96.m3u8
-#EXTINF:-1,GB: SKY SPORT 5 HD
+#EXTINF:0,#EXTINF:-1,GB: SKY SPORT 5 HD
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/95.m3u8
-#EXTINF:-1,GB: Sky Sport 4 HD
+#EXTINF:0,#EXTINF:-1,GB: Sky Sport 4 HD
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/94.m3u8
-#EXTINF:-1,GB: Sky Sport 3 HD
+#EXTINF:0,#EXTINF:-1,GB: Sky Sport 3 HD
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/93.m3u8
-#EXTINF:-1,GB: SKY SPORT 2HD
+#EXTINF:0,#EXTINF:-1,GB: SKY SPORT 2HD
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/92.m3u8
-#EXTINF:-1,GB: SKY SPORT 1 HD
+#EXTINF:0,#EXTINF:-1,GB: SKY SPORT 1 HD
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/77.m3u8
-#EXTINF:-1,GB: Setanta Sport
+#EXTINF:0,#EXTINF:-1,GB: Setanta Sport
 http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/515.m3u8
-#EXTINF:-1,GB: RTE 2 HD
+#EXTINF:0,#EXTINF:-1,GB: RTE 2 HD
 #EXTINF:-1,GB: BT Sports 2 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/39.m3u8
+#EXTINF:0,http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/39.m3u8
 #EXTINF:-1,GB: BT Sports 1 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/38.m3u8
+#EXTINF:0,http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/38.m3u8
 #EXTINF:-1,GB: BT Sport Europe
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/37.m3u8
-#EXTINF:-1,GB: Box Nation HD
+#EXTINF:0,http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/37.m3u8
