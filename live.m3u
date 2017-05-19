@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,***** Phils UK Sports *****
-#EXTINF:-1,UK | SkySport1 UK
+EXTINF:-1,UK | SkySport1 UK
 http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1093.ts
 #EXTINF:-1,UK | SkySport2 UK
 http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1092.ts
