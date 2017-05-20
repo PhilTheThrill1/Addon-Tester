@@ -1,26 +1,19 @@
 #EXTM3U
-#EXTINF:0,#EXTINF:-1,***** Phils UK Sports *****
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/824.m3u8
-#EXTINF:0,#EXTINF:-1,GB: Sky Sports News HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/97.m3u8
-#EXTINF:0,#EXTINF:-1,GB: Sky Sport F1 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/96.m3u8
-#EXTINF:0,#EXTINF:-1,GB: SKY SPORT 5 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/95.m3u8
-#EXTINF:0,#EXTINF:-1,GB: Sky Sport 4 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/94.m3u8
-#EXTINF:0,#EXTINF:-1,GB: Sky Sport 3 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/93.m3u8
-#EXTINF:0,#EXTINF:-1,GB: SKY SPORT 2HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/92.m3u8
-#EXTINF:0,#EXTINF:-1,GB: SKY SPORT 1 HD
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/77.m3u8
-#EXTINF:0,#EXTINF:-1,GB: Setanta Sport
-http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/515.m3u8
-#EXTINF:0,#EXTINF:-1,GB: RTE 2 HD
-#EXTINF:-1,GB: BT Sports 2 HD
-#EXTINF:0,http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/39.m3u8
-#EXTINF:-1,GB: BT Sports 1 HD
-#EXTINF:0,http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/38.m3u8
-#EXTINF:-1,GB: BT Sport Europe
-#EXTINF:0,http://nlxiptv.no-ip.biz:1994/live/mehdi/mehdi/37.m3u8
+#EXTINF:-1,***** Phils UK Sports *****
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1028.ts
+#EXTINF:-1,UK | SkySport1 UK
+http://ok1.se:8000/live/demo/demo/204.ts
+#EXTINF:-1,UK | SkySport2 UK
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1092.ts
+#EXTINF:-1,UK | SkySport3 UK
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1091.ts
+#EXTINF:-1,UK | SkySport4  UK
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1090.ts
+#EXTINF:-1,UK | SkySport5 UK
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1089.ts
+#EXTINF:-1,UK | SkysportF1
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1088.ts
+#EXTINF:-1,UK | BTSport1
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1079.ts
+#EXTINF:-1,UK | BTSport2
+http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1078.ts
