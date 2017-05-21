@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,UK:   BT SPORT 1 HD
-#EXTINF:0,http://iptvsale.info:8889/live/rabah/rabah/1642.ts
+#EXTINF:0,UK:  BT
+http://iptvsale.info:8889/live/rabah/rabah/1642.ts
 #EXTINF:-1,UK:   BT SPORT 2 HD
 http://iptvsale.info:8889/live/rabah/rabah/1643.ts
 #EXTINF:-1,UK:   BT SPORT 3 HD
