@@ -1,17 +1,49 @@
 #EXTM3U
-#EXTINF:-1,***** Phils UK Sports *****
-http://sutverduz.com:8080/live/YqAfcS6gzK/XAkuMBJ7yi/1028.ts
-#EXTINF:-1,UK | SkySport1 UK
-http://fast-iptv.com:9000/live/111/111/333.ts
-#EXTINF:-1,UK | SkySport2 UK
-http://4kip.tv:1795/live/goldstar412/my98cv/488.ts
-#EXTINF:-1,UK | SkySport3 UK
-http://4kip.tv:1795/live/goldstar412/my98cv/489.ts
-#EXTINF:-1,UK | SkySport4  UK
-http://4kip.tv:1795/live/goldstar412/my98cv/490.ts
-#EXTINF:-1,UK | SkySport5 UK
-http://4kip.tv:1795/live/goldstar412/my98cv/491.ts
-#EXTINF:-1,UK | BTSport1
-http://4kip.tv:1795/live/goldstar412/my98cv/667.ts
-#EXTINF:-1,UK | BTSport2
-http://4kip.tv:1795/live/goldstar412/my98cv/668.ts
+#EXTINF:-1,UK:   BT SPORT 1 HD
+http://iptvsale.info:8889/live/rabah/rabah/1642.ts
+#EXTINF:-1,UK:   BT SPORT 2 HD
+http://iptvsale.info:8889/live/rabah/rabah/1643.ts
+#EXTINF:-1,UK:   BT SPORT 3 HD
+http://iptvsale.info:8889/live/rabah/rabah/1644.ts
+#EXTINF:-1,UK:  SKY F1 HD
+http://iptvsale.info:8889/live/rabah/rabah/1641.ts
+#EXTINF:-1,UK:  SKY SPORT MIX
+http://iptvsale.info:8889/live/rabah/rabah/1656.ts
+#EXTINF:-1,UK:  SKY SPORTS 1 HD
+http://iptvsale.info:8889/live/rabah/rabah/1636.ts
+#EXTINF:-1,UK:  SKY SPORTS 2 HD
+http://iptvsale.info:8889/live/rabah/rabah/1637.ts
+#EXTINF:-1,UK:  SKY SPORTS 3 HD
+http://iptvsale.info:8889/live/rabah/rabah/1638.ts
+#EXTINF:-1,UK:  SKY SPORTS 4 HD
+http://iptvsale.info:8889/live/rabah/rabah/1639.ts
+#EXTINF:-1,UK:  SKY SPORTS 5 HD
+http://iptvsale.info:8889/live/rabah/rabah/1640.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptvsale.info:8889/live/rabah/rabah/503.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptvsale.info:8889/live/rabah/rabah/504.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptvsale.info:8889/live/rabah/rabah/505.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://iptvsale.info:8889/live/rabah/rabah/506.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://iptvsale.info:8889/live/rabah/rabah/507.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://iptvsale.info:8889/live/rabah/rabah/53.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptvsale.info:8889/live/rabah/rabah/509.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptvsale.info:8889/live/rabah/rabah/510.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://iptvsale.info:8889/live/rabah/rabah/861.ts
+#EXTINF:-1,UK: BT Sport Xtra 2
+http://iptvsale.info:8889/live/rabah/rabah/1660.ts
+#EXTINF:-1,UK: BT Sport Xtra 3
+http://iptvsale.info:8889/live/rabah/rabah/1661.ts
+#EXTINF:-1,UK: BT Sport Xtra 4
+http://iptvsale.info:8889/live/rabah/rabah/1662.ts
+#EXTINF:-1,UK: BT Sport Xtra 5
+http://iptvsale.info:8889/live/rabah/rabah/1663.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://iptvsale.info:8889/live/rabah/rabah/1770.ts
