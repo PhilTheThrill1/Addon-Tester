@@ -1,49 +1,131 @@
 #EXTM3U
-#EXTINF:0,UK:  BT
-http://iptvsale.info:8889/live/rabah/rabah/1642.ts
-#EXTINF:-1,UK:   BT SPORT 2 HD
-http://iptvsale.info:8889/live/rabah/rabah/1643.ts
-#EXTINF:-1,UK:   BT SPORT 3 HD
-http://iptvsale.info:8889/live/rabah/rabah/1644.ts
-#EXTINF:-1,UK:  SKY F1 HD
-http://iptvsale.info:8889/live/rabah/rabah/1641.ts
-#EXTINF:-1,UK:  SKY SPORT MIX
-http://iptvsale.info:8889/live/rabah/rabah/1656.ts
-#EXTINF:-1,UK:  SKY SPORTS 1 HD
-http://iptvsale.info:8889/live/rabah/rabah/1636.ts
-#EXTINF:-1,UK:  SKY SPORTS 2 HD
-http://iptvsale.info:8889/live/rabah/rabah/1637.ts
-#EXTINF:-1,UK:  SKY SPORTS 3 HD
-http://iptvsale.info:8889/live/rabah/rabah/1638.ts
-#EXTINF:-1,UK:  SKY SPORTS 4 HD
-http://iptvsale.info:8889/live/rabah/rabah/1639.ts
-#EXTINF:-1,UK:  SKY SPORTS 5 HD
-http://iptvsale.info:8889/live/rabah/rabah/1640.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://iptvsale.info:8889/live/rabah/rabah/503.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://iptvsale.info:8889/live/rabah/rabah/504.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://iptvsale.info:8889/live/rabah/rabah/505.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://iptvsale.info:8889/live/rabah/rabah/506.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://iptvsale.info:8889/live/rabah/rabah/507.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://iptvsale.info:8889/live/rabah/rabah/53.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://iptvsale.info:8889/live/rabah/rabah/509.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://iptvsale.info:8889/live/rabah/rabah/510.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://iptvsale.info:8889/live/rabah/rabah/861.ts
-#EXTINF:-1,UK: BT Sport Xtra 2
-http://iptvsale.info:8889/live/rabah/rabah/1660.ts
-#EXTINF:-1,UK: BT Sport Xtra 3
-http://iptvsale.info:8889/live/rabah/rabah/1661.ts
-#EXTINF:-1,UK: BT Sport Xtra 4
-http://iptvsale.info:8889/live/rabah/rabah/1662.ts
-#EXTINF:-1,UK: BT Sport Xtra 5
-http://iptvsale.info:8889/live/rabah/rabah/1663.ts
-#EXTINF:-1,UK: Eir Sport 2
-http://iptvsale.info:8889/live/rabah/rabah/1770.ts
+#EXTINF:-1,UK | Sky Sports 1 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/519.ts
+#EXTINF:-1,UK | Sky Sports 1 HD **
+http://37.187.132.70:25461/live/Ryan5/Ryan5/520.ts
+#EXTINF:-1,UK | Sky Sports 1 HD Local (Ask for it to be turned on for games)
+http://37.187.132.70:25461/live/Ryan5/Ryan5/15274.ts
+#EXTINF:-1,UK | Sky Sports 1 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3319.ts
+#EXTINF:-1,UK | Sky Sports 2 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/522.ts
+#EXTINF:-1,UK | Sky Sports 2 HD **
+http://37.187.132.70:25461/live/Ryan5/Ryan5/523.ts
+#EXTINF:-1,UK | Sky Sports 2 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3318.ts
+#EXTINF:-1,UK | Sky Sports 3 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/525.ts
+#EXTINF:-1,UK | Sky Sports 3 HD **
+http://37.187.132.70:25461/live/Ryan5/Ryan5/526.ts
+#EXTINF:-1,UK | Sky Sports 3 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3317.ts
+#EXTINF:-1,UK | Sky Sports 4 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/528.ts
+#EXTINF:-1,UK | Sky Sports 4 HD **
+http://37.187.132.70:25461/live/Ryan5/Ryan5/529.ts
+#EXTINF:-1,UK | Sky Sports 4 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3316.ts
+#EXTINF:-1,UK | Sky Sports 5 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/531.ts
+#EXTINF:-1,UK | Sky Sports 5 HD **
+http://37.187.132.70:25461/live/Ryan5/Ryan5/532.ts
+#EXTINF:-1,UK | SKY SPORTS 5 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3315.ts
+#EXTINF:-1,UK | Sky Sports 2 IRE
+http://37.187.132.70:25461/live/Ryan5/Ryan5/4358.ts
+#EXTINF:-1,UK | Sky Sports News SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/537.ts
+#EXTINF:-1,UK | Sky Sports News HD Local
+http://37.187.132.70:25461/live/Ryan5/Ryan5/2765.ts
+#EXTINF:-1,UK | Sky Sports F1 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/534.ts
+#EXTINF:-1,UK | Sky Sports F1 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/16197.ts
+#EXTINF:-1,UK | Sky Sports F1 HD Local
+http://37.187.132.70:25461/live/Ryan5/Ryan5/2717.ts
+#EXTINF:-1,UK | Sky Sports Mix SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/912.ts
+#EXTINF:-1,UK | Sky Sports Mix HD**
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1413.ts
+#EXTINF:-1,UK | BT Sport 1 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/539.ts
+#EXTINF:-1,UK | BT Sport 1 HD**
+http://37.187.132.70:25461/live/Ryan5/Ryan5/540.ts
+#EXTINF:-1,UK | BT Sport 1 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3322.ts
+#EXTINF:-1,UK | BT Sport 2 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/541.ts
+#EXTINF:-1,BT Sport 2 HD Local (Ask for it to be turned on for games)
+http://37.187.132.70:25461/live/Ryan5/Ryan5/14908.ts
+#EXTINF:-1,UK | BT Sport 2 HD**
+http://37.187.132.70:25461/live/Ryan5/Ryan5/542.ts
+#EXTINF:-1,UK | BT Sport 2 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3321.ts
+#EXTINF:-1,UK | BT Sport 3 SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/543.ts
+#EXTINF:-1,UK | BT Sport 3 HD**
+http://37.187.132.70:25461/live/Ryan5/Ryan5/544.ts
+#EXTINF:-1,UK | BT Sport 3 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3320.ts
+#EXTINF:-1,UK | BT Sport Extra 1
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1073.ts
+#EXTINF:-1,UK | BT Sport Extra 2
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1074.ts
+#EXTINF:-1,UK | BT Sport Extra 3
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1075.ts
+#EXTINF:-1,UK | BT Sport Extra 4
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1076.ts
+#EXTINF:-1,UK | Premier Sports SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/2129.ts
+#EXTINF:-1,UK | Premier Sports HD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1010.ts
+#EXTINF:-1,UK | PREMIER SPORTS FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3313.ts
+#EXTINF:-1,UK | Eir Sports 1
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1119.ts
+#EXTINF:-1,UK | Eir Sports 2
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1120.ts
+#EXTINF:-1,UK | Celtic TV (Match Day Only)
+http://37.187.132.70:25461/live/Ryan5/Ryan5/956.ts
+#EXTINF:-1,UK | Rangers TV (Matchday Only)
+http://37.187.132.70:25461/live/Ryan5/Ryan5/957.ts
+#EXTINF:-1,UK | MUTV SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/547.ts
+#EXTINF:-1,UK | MUTV HD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1461.ts
+#EXTINF:-1,UK | MUTV FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3311.ts
+#EXTINF:-1,UK | Eurosport 1 HD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/550.ts
+#EXTINF:-1,UK | Eurosport 2 HD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/552.ts
+#EXTINF:-1,UK | Box Nation SD **
+http://37.187.132.70:25461/live/Ryan5/Ryan5/673.ts
+#EXTINF:-1,UK | BoxNation Local HD [Live events only]
+http://37.187.132.70:25461/live/Ryan5/Ryan5/14895.ts
+#EXTINF:-1,UK | Motors TV SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/554.ts
+#EXTINF:-1,UK | At The Races SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/555.ts
+#EXTINF:-1,UK | BT Sport Espn SD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/545.ts
+#EXTINF:-1,UK | BT Sports Espn HD**
+http://37.187.132.70:25461/live/Ryan5/Ryan5/4555.ts
+#EXTINF:-1,UK | RedBull TV HD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/2131.ts
+#EXTINF:-1,UK | William Hill TV
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1071.ts
+#EXTINF:-1,UK | EIR SPORTS 2 FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3312.ts
+#EXTINF:-1,UK | Chelsea TV
+http://37.187.132.70:25461/live/Ryan5/Ryan5/548.ts
+#EXTINF:-1,UK | Chelsea TV Test
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3414.ts
+#EXTINF:-1,UK | Racing UK
+http://37.187.132.70:25461/live/Ryan5/Ryan5/558.ts
+#EXTINF:-1,UK | RACING UK FHD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/3323.ts
+#EXTINF:-1,UK | LFCTV
+http://37.187.132.70:25461/live/Ryan5/Ryan5/549.ts
+#EXTINF:-1,UK | LFC TV HD
+http://37.187.132.70:25461/live/Ryan5/Ryan5/1421.ts
